@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.618,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.244,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.060,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.394,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.784,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.630,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.371,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.972,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.740,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.739,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.671,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.450,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.660,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020-11-20 16:04:04.041,=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020-11-20 16:04:16.934,E:\my\StarDemo\Unit4.pas=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020-11-20 16:04:16.934,E:\my\StarDemo\Unit4.dfm=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2020-11-20 16:04:27.210,E:\my\StarDemo\StarDemo.dproj=C:\Users\steven\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
